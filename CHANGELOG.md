@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-15)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`1d5aa47`](https://github.com/stdlib-js/stdlib/commit/1d5aa47204c258b674d3db4aec92fbd2475e5ea7) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`94aa4aa`](https://github.com/stdlib-js/stdlib/commit/94aa4aafa4f6e98f8e51285daa212e1402254b10) - **feat:** add C implementation for `stats/base/dists/t/stdev` [(#3923)](https://github.com/stdlib-js/stdlib/pull/3923) _(by Aayush Khanna, stdlib-bot)_
 
 </details>
@@ -46,9 +47,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Philipp Burckhardt
 
 </section>
 
