@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-04)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`ef11834`](https://github.com/stdlib-js/stdlib/commit/ef1183420e6bba80849c12f838aa7eb23c6d7635) - **docs:** update related packages sections [(#5048)](https://github.com/stdlib-js/stdlib/pull/5048) _(by stdlib-bot)_
 -   [`1d5aa47`](https://github.com/stdlib-js/stdlib/commit/1d5aa47204c258b674d3db4aec92fbd2475e5ea7) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`94aa4aa`](https://github.com/stdlib-js/stdlib/commit/94aa4aafa4f6e98f8e51285daa212e1402254b10) - **feat:** add C implementation for `stats/base/dists/t/stdev` [(#3923)](https://github.com/stdlib-js/stdlib/pull/3923) _(by Aayush Khanna, stdlib-bot)_
