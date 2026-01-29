@@ -69,7 +69,7 @@ For `ν` smaller than one, the standard deviation is not defined.
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-stdev@v0.3.0-esm/index.mjs';
 ```
 
 #### stdev( v )
@@ -132,7 +132,7 @@ y = stdev( 0.8 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-stdev@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
